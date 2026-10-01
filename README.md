@@ -1,4 +1,4 @@
-# Projeto 1
+# Projeto calculadora de nota
 Calculadora Média Aluno
 
 # Calculadora de Média do Aluno
